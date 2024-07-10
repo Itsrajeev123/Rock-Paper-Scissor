@@ -51,10 +51,9 @@ Once you have the project set up, you can start playing by running the applicati
 
 ## 🙌 Acknowledgements
 
-- [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Giphy](https://giphy.com/)
 
 ---
 
-Made with ❤️ by Rajeev
+✨ Crafted with creativity and code by Rajeev ✨
