@@ -2,7 +2,7 @@
 
 Welcome to the **Rock Paper Scissors** game project! This is a simple, yet fun, implementation of the classic hand game where you can play against the computer.
 
-![Rock Paper Scissors] (https://media.giphy.com/media/3o6Zt5TndGtn6ZP6ak/giphy.gif)
+![Rock Paper Scissors] (https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmNqaDRrdjhhb2ZodTFvdHpoOHVjdjF6b2kxd2N6OWYwbnYzaW9qOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ze2gn6fMWIV6rWJeCO/giphy.gif)
 
 ## 🚀 Features
 
